@@ -1,4 +1,6 @@
-﻿/*
+﻿Made a little change to the notes file.
+
+/*
             Options
                 1)  Is_ActivateCoupons : Not sure of it's meaning but it results
                                     in either the CalculateCoupon or CaulateWithdrawal
